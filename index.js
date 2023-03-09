@@ -5,6 +5,7 @@ function fun1(){
 
 function fun2(){
     console.log('fun2 invoked');
+    console.log('develop1 added line')
 
 }
 
