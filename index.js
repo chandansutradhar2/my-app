@@ -5,7 +5,8 @@ function fun1(){
 
 function fun2(){
     console.log('fun2 invoked');
-    console.log('developer 2 added a line')
+    console.log('developer 2 added a line');
+    
 }
 
 function fun3(){
@@ -14,6 +15,10 @@ function fun3(){
      * 
      * some commented code added by dev2
      */
+    setTimeout(()=>{
+        //todo 
+
+    },3000)
 }
 
 
