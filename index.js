@@ -5,7 +5,7 @@ function fun1(){
 
 function fun2(){
     console.log('fun2 invoked')
-}
+
 
 function fun3(){
     console.log('fun3 invoked');
