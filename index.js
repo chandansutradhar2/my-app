@@ -10,6 +10,10 @@ function fun2(){
 
 function fun3(){
     console.log('fun3 invoked');
+    /**
+     * 
+     * some commented code added by dev2
+     */
 }
 
 
