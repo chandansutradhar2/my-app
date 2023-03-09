@@ -1,0 +1,8 @@
+function sendChat(){
+
+}
+
+function onChatRecieved(){
+
+
+}
