@@ -19,6 +19,9 @@ function fun3(){
 }
 
 
+function login(){
+    console.log('login functionality')
+}
 function fun4(){
     console.log('fun4 invoked');
 }
